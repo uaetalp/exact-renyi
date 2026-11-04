@@ -1,0 +1,450 @@
+{
+  "schema": "ic-workload-result-v1",
+  "numeric_status": "ordinary_float_theoretical_bounds_not_certificate",
+  "arm": "B",
+  "spec": {
+    "b": 2,
+    "k": 4,
+    "T": 32,
+    "p": 0.125,
+    "sigma": 3,
+    "orders": [
+      2,
+      4,
+      8,
+      12
+    ]
+  },
+  "screen": false,
+  "moment_calls": 1,
+  "moments": {
+    "2": {
+      "logF": 0.8452918086395175,
+      "peak_states": 15,
+      "rows": [
+        {
+          "row": 0,
+          "states": 15,
+          "U_edges": 15,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 1,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 2,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 3,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 4,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 5,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 6,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 7,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 8,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 9,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 10,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 11,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 12,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 13,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 14,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 15,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 16,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 17,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 18,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 19,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 20,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 21,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 22,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 23,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 24,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 25,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 26,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 27,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 28,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 29,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 30,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 31,
+          "states": 15,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        }
+      ],
+      "monitor": {
+        "updates": 1440,
+        "periodic": 0,
+        "boundaries": 67,
+        "cpu": 0.0
+      },
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.003996575999999998,
+      "worker_peak_rss_bytes": 17657856,
+      "kernel_levels_generated": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "queries": {
+    "0.001": {
+      "forward": {
+        "label": "F2_CS",
+        "epsilon": 5.80863278848452,
+        "orders": [
+          2
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 3.2000170972974025,
+        "orders": []
+      },
+      "epsilon": 5.80863278848452,
+      "baseline_epsilon": 5.80863278848452
+    },
+    "1e-05": {
+      "forward": {
+        "label": "F2_CS",
+        "epsilon": 10.410830045239312,
+        "orders": [
+          2
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 4.312231067370358,
+        "orders": []
+      },
+      "epsilon": 10.410830045239312,
+      "baseline_epsilon": 10.410830045239312
+    },
+    "1e-07": {
+      "forward": {
+        "label": "F2_CS",
+        "epsilon": 15.015970427454926,
+        "orders": [
+          2
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 5.183877787280009,
+        "orders": []
+      },
+      "epsilon": 15.015970427454926,
+      "baseline_epsilon": 15.015970427454926
+    }
+  },
+  "base": {
+    "0.001": {
+      "forward": {
+        "label": "F2_CS",
+        "epsilon": 5.80863278848452,
+        "orders": [
+          2
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 3.2000170972974025,
+        "orders": []
+      },
+      "epsilon": 5.80863278848452,
+      "lower_missing": 1.1603575797584453
+    },
+    "1e-05": {
+      "forward": {
+        "label": "F2_CS",
+        "epsilon": 10.410830045239312,
+        "orders": [
+          2
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 4.312231067370358,
+        "orders": []
+      },
+      "epsilon": 10.410830045239312,
+      "lower_missing": 1.579009414848272
+    },
+    "1e-07": {
+      "forward": {
+        "label": "F2_CS",
+        "epsilon": 15.015970427454926,
+        "orders": [
+          2
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 5.183877787280009,
+        "orders": []
+      },
+      "epsilon": 15.015970427454926,
+      "lower_missing": 1.9976612499380986
+    }
+  },
+  "common": {
+    "v": 15.60577287218349,
+    "m_norm2": 7.186625254327224,
+    "log_w0": -17.092018255938896,
+    "paths": {
+      "2": 1.9494550315437358,
+      "4": 15.20762340104194,
+      "8": 94.76580442676193,
+      "12": 158.56809769694792
+    },
+    "single_chain_steps": 32,
+    "path_steps": 128,
+    "root_iterations": 195
+  },
+  "kernel_levels_built": 3,
+  "cheap_cpu": 0.0,
+  "high_cpu": 0.0,
+  "conversion_cpu": 0.0,
+  "process_cpu_before_serialization": 0.004485282999999996,
+  "status": "PASS"
+}

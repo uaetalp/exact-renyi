@@ -1,0 +1,4901 @@
+{
+  "schema": "ic-confirm-cost-summary-v1",
+  "results": [
+    {
+      "name": "R1_01_N2_U",
+      "config": "N2",
+      "arm": "U",
+      "cpu": 0.035142999999999994,
+      "wall": 0.035829040105454624,
+      "returncode": 0,
+      "logF": 0.03237356149569731,
+      "peak_states": 15,
+      "worker_peak_rss_bytes": 16281600,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.003999401,
+      "monitor": {
+        "updates": 845,
+        "periodic": 0,
+        "boundaries": 29,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 15,
+          "U_edges": 15,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R1_01_N2_E",
+      "config": "N2",
+      "arm": "E",
+      "cpu": 0.034783,
+      "wall": 0.035514516988769174,
+      "returncode": 0,
+      "logF": 0.03237356149569682,
+      "peak_states": 15,
+      "worker_peak_rss_bytes": 16281600,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.0036686210000000004,
+      "monitor": {
+        "updates": 1240,
+        "periodic": 0,
+        "boundaries": 53,
+        "cpu": 0.0036686210000000004
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 15,
+          "U_edges": 0,
+          "A": 1,
+          "B": 9,
+          "target": 15
+        },
+        {
+          "row": 1,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 2,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 3,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 4,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 5,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 6,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 7,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 8,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 9,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 10,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 11,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        }
+      ]
+    },
+    {
+      "name": "R1_02_Z2_U",
+      "config": "Z2",
+      "arm": "U",
+      "cpu": 0.046533,
+      "wall": 0.047275055083446205,
+      "returncode": 0,
+      "logF": 0.1609289842728164,
+      "peak_states": 45,
+      "worker_peak_rss_bytes": 16281600,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.015795236999999997,
+      "monitor": {
+        "updates": 5850,
+        "periodic": 1,
+        "boundaries": 33,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R1_02_Z2_E",
+      "config": "Z2",
+      "arm": "E",
+      "cpu": 0.040766999999999984,
+      "wall": 0.04152004199568182,
+      "returncode": 0,
+      "logF": 0.16092898427281657,
+      "peak_states": 45,
+      "worker_peak_rss_bytes": 16674816,
+      "preprocess_cpu": 0.004012936999999998,
+      "recurrence_cpu": 0.003949718000000001,
+      "monitor": {
+        "updates": 5868,
+        "periodic": 1,
+        "boundaries": 57,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 0,
+          "A": 1,
+          "B": 17,
+          "target": 45
+        },
+        {
+          "row": 1,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 2,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 3,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 4,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 5,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 6,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 7,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 8,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 9,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 10,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 11,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        }
+      ]
+    },
+    {
+      "name": "R1_03_P2_U",
+      "config": "P2",
+      "arm": "U",
+      "cpu": 0.15640999999999997,
+      "wall": 0.158416765043512,
+      "returncode": 0,
+      "logF": 0.8054773806577962,
+      "peak_states": 153,
+      "worker_peak_rss_bytes": 16945152,
+      "preprocess_cpu": 0.0039995820000000015,
+      "recurrence_cpu": 0.118798608,
+      "monitor": {
+        "updates": 55896,
+        "periodic": 13,
+        "boundaries": 41,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 153,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R1_03_P2_E",
+      "config": "P2",
+      "arm": "E",
+      "cpu": 0.07112699999999998,
+      "wall": 0.07232647901400924,
+      "returncode": 0,
+      "logF": 0.8054773806577976,
+      "peak_states": 153,
+      "worker_peak_rss_bytes": 18104320,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.035585526,
+      "monitor": {
+        "updates": 34612,
+        "periodic": 8,
+        "boundaries": 65,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 0,
+          "A": 1,
+          "B": 33,
+          "target": 153
+        },
+        {
+          "row": 1,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 2,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 3,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 4,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 5,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 6,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 7,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 8,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 9,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 10,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 11,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        }
+      ]
+    },
+    {
+      "name": "R1_04_N3_U",
+      "config": "N3",
+      "arm": "U",
+      "cpu": 0.12432600000000003,
+      "wall": 0.12659659702330828,
+      "returncode": 0,
+      "logF": 0.19229894688303753,
+      "peak_states": 495,
+      "worker_peak_rss_bytes": 18554880,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.083133822,
+      "monitor": {
+        "updates": 30930,
+        "periodic": 7,
+        "boundaries": 33,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 495,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R1_04_N3_E",
+      "config": "N3",
+      "arm": "E",
+      "cpu": 0.10591299999999997,
+      "wall": 0.10794367897324264,
+      "returncode": 0,
+      "logF": 0.19229894688303797,
+      "peak_states": 495,
+      "worker_peak_rss_bytes": 23318528,
+      "preprocess_cpu": 0.00384406,
+      "recurrence_cpu": 0.063250227,
+      "monitor": {
+        "updates": 39858,
+        "periodic": 9,
+        "boundaries": 1025,
+        "cpu": 0.008752775000000011
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 0,
+          "A": 1,
+          "B": 17,
+          "target": 45
+        },
+        {
+          "row": 1,
+          "states": 495,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 495
+        },
+        {
+          "row": 2,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 3,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 4,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 5,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 6,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 7,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 8,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 9,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 10,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 11,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        }
+      ]
+    },
+    {
+      "name": "R1_05_P3_U",
+      "config": "P3",
+      "arm": "U",
+      "cpu": 2.008365,
+      "wall": 2.0364940700819716,
+      "returncode": 0,
+      "logF": 0.9915028758849319,
+      "peak_states": 4845,
+      "worker_peak_rss_bytes": 35037184,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 1.899460517,
+      "monitor": {
+        "updates": 753576,
+        "periodic": 183,
+        "boundaries": 41,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 153,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 4845,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R1_05_P3_E",
+      "config": "P3",
+      "arm": "E",
+      "cpu": 0.898262,
+      "wall": 0.9119777739979327,
+      "returncode": 0,
+      "logF": 0.991502875884932,
+      "peak_states": 4845,
+      "worker_peak_rss_bytes": 50548736,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.78659745,
+      "monitor": {
+        "updates": 619888,
+        "periodic": 151,
+        "boundaries": 3409,
+        "cpu": 0.03026568799999982
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 0,
+          "A": 1,
+          "B": 33,
+          "target": 153
+        },
+        {
+          "row": 1,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 4845
+        },
+        {
+          "row": 2,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 3,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 4,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 5,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 6,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 7,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 8,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 9,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 10,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 11,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        }
+      ]
+    },
+    {
+      "name": "R1_06_A4_U",
+      "config": "A4",
+      "arm": "U",
+      "cpu": 3.3628169999999997,
+      "wall": 3.4015890090959147,
+      "returncode": 0,
+      "logF": 163.3494123881652,
+      "peak_states": 1325,
+      "worker_peak_rss_bytes": 66826240,
+      "preprocess_cpu": 0.008174662999999999,
+      "recurrence_cpu": 3.2947474600000004,
+      "monitor": {
+        "updates": 1530080,
+        "periodic": 373,
+        "boundaries": 45,
+        "cpu": 0.011999677000000052
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 1325,
+          "U_edges": 1325,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 12,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 13,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 14,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 15,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R1_06_A4_E",
+      "config": "A4",
+      "arm": "E",
+      "cpu": 0.25740600000000025,
+      "wall": 0.26155263802502304,
+      "returncode": 0,
+      "logF": 163.3494123881652,
+      "peak_states": 1325,
+      "worker_peak_rss_bytes": 66826240,
+      "preprocess_cpu": 0.007997130000000002,
+      "recurrence_cpu": 0.193503108,
+      "monitor": {
+        "updates": 172510,
+        "periodic": 42,
+        "boundaries": 77,
+        "cpu": 0.003998600000000005
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1,
+          "B": 49,
+          "target": 1325
+        },
+        {
+          "row": 1,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 2,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 3,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 4,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 5,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 6,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 7,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 8,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 9,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 10,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 11,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 12,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 13,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 14,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 15,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        }
+      ]
+    },
+    {
+      "name": "R2_01_A4_E",
+      "config": "A4",
+      "arm": "E",
+      "cpu": 0.2602779999999999,
+      "wall": 0.2646869090385735,
+      "returncode": 0,
+      "logF": 163.3494123881652,
+      "peak_states": 1325,
+      "worker_peak_rss_bytes": 71421952,
+      "preprocess_cpu": 0.011977476999999997,
+      "recurrence_cpu": 0.193425966,
+      "monitor": {
+        "updates": 172510,
+        "periodic": 42,
+        "boundaries": 77,
+        "cpu": 0.003997707999999999
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1,
+          "B": 49,
+          "target": 1325
+        },
+        {
+          "row": 1,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 2,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 3,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 4,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 5,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 6,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 7,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 8,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 9,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 10,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 11,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 12,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 13,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 14,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 15,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        }
+      ]
+    },
+    {
+      "name": "R2_01_A4_U",
+      "config": "A4",
+      "arm": "U",
+      "cpu": 3.3559839999999994,
+      "wall": 3.3983157760230824,
+      "returncode": 0,
+      "logF": 163.3494123881652,
+      "peak_states": 1325,
+      "worker_peak_rss_bytes": 77160448,
+      "preprocess_cpu": 0.012989124000000005,
+      "recurrence_cpu": 3.288487368,
+      "monitor": {
+        "updates": 1530080,
+        "periodic": 373,
+        "boundaries": 45,
+        "cpu": 0.006809151999999985
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 1325,
+          "U_edges": 1325,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 12,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 13,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 14,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 15,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R2_02_P3_E",
+      "config": "P3",
+      "arm": "E",
+      "cpu": 0.8842760000000016,
+      "wall": 0.8999543179525062,
+      "returncode": 0,
+      "logF": 0.991502875884932,
+      "peak_states": 4845,
+      "worker_peak_rss_bytes": 82677760,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.773068309,
+      "monitor": {
+        "updates": 619888,
+        "periodic": 151,
+        "boundaries": 3409,
+        "cpu": 0.03842874900000011
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 0,
+          "A": 1,
+          "B": 33,
+          "target": 153
+        },
+        {
+          "row": 1,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 4845
+        },
+        {
+          "row": 2,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 3,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 4,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 5,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 6,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 7,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 8,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 9,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 10,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 11,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        }
+      ]
+    },
+    {
+      "name": "R2_02_P3_U",
+      "config": "P3",
+      "arm": "U",
+      "cpu": 2.0078510000000014,
+      "wall": 2.0387881359783933,
+      "returncode": 0,
+      "logF": 0.9915028758849319,
+      "peak_states": 4845,
+      "worker_peak_rss_bytes": 104341504,
+      "preprocess_cpu": 0.003999361999999999,
+      "recurrence_cpu": 1.898459057,
+      "monitor": {
+        "updates": 753576,
+        "periodic": 183,
+        "boundaries": 41,
+        "cpu": 0.011996441999999989
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 153,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 4845,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R2_03_N3_E",
+      "config": "N3",
+      "arm": "E",
+      "cpu": 0.10745599999999794,
+      "wall": 0.10974334296770394,
+      "returncode": 0,
+      "logF": 0.19229894688303797,
+      "peak_states": 495,
+      "worker_peak_rss_bytes": 121970688,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.062569811,
+      "monitor": {
+        "updates": 39858,
+        "periodic": 9,
+        "boundaries": 1025,
+        "cpu": 0.022037775999999995
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 0,
+          "A": 1,
+          "B": 17,
+          "target": 45
+        },
+        {
+          "row": 1,
+          "states": 495,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 495
+        },
+        {
+          "row": 2,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 3,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 4,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 5,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 6,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 7,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 8,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 9,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 10,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 11,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        }
+      ]
+    },
+    {
+      "name": "R2_03_N3_U",
+      "config": "N3",
+      "arm": "U",
+      "cpu": 0.12533500000000114,
+      "wall": 0.12804593902546912,
+      "returncode": 0,
+      "logF": 0.19229894688303753,
+      "peak_states": 495,
+      "worker_peak_rss_bytes": 121970688,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.086755785,
+      "monitor": {
+        "updates": 30930,
+        "periodic": 7,
+        "boundaries": 33,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 495,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R2_04_P2_E",
+      "config": "P2",
+      "arm": "E",
+      "cpu": 0.07130799999999782,
+      "wall": 0.07262343005277216,
+      "returncode": 0,
+      "logF": 0.8054773806577976,
+      "peak_states": 153,
+      "worker_peak_rss_bytes": 121970688,
+      "preprocess_cpu": 0.003999331000000002,
+      "recurrence_cpu": 0.03538486099999999,
+      "monitor": {
+        "updates": 34612,
+        "periodic": 8,
+        "boundaries": 65,
+        "cpu": 0.0020927349999999983
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 0,
+          "A": 1,
+          "B": 33,
+          "target": 153
+        },
+        {
+          "row": 1,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 2,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 3,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 4,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 5,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 6,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 7,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 8,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 9,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 10,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 11,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        }
+      ]
+    },
+    {
+      "name": "R2_04_P2_U",
+      "config": "P2",
+      "arm": "U",
+      "cpu": 0.1561920000000001,
+      "wall": 0.1591000440530479,
+      "returncode": 0,
+      "logF": 0.8054773806577962,
+      "peak_states": 153,
+      "worker_peak_rss_bytes": 121970688,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.12215953199999999,
+      "monitor": {
+        "updates": 55896,
+        "periodic": 13,
+        "boundaries": 41,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 153,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R2_05_Z2_E",
+      "config": "Z2",
+      "arm": "E",
+      "cpu": 0.03998500000000155,
+      "wall": 0.041314563946798444,
+      "returncode": 0,
+      "logF": 0.16092898427281657,
+      "peak_states": 45,
+      "worker_peak_rss_bytes": 121970688,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.007999705999999999,
+      "monitor": {
+        "updates": 5868,
+        "periodic": 1,
+        "boundaries": 57,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 0,
+          "A": 1,
+          "B": 17,
+          "target": 45
+        },
+        {
+          "row": 1,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 2,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 3,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 4,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 5,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 6,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 7,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 8,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 9,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 10,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 11,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        }
+      ]
+    },
+    {
+      "name": "R2_05_Z2_U",
+      "config": "Z2",
+      "arm": "U",
+      "cpu": 0.046703999999998635,
+      "wall": 0.04771436401642859,
+      "returncode": 0,
+      "logF": 0.1609289842728164,
+      "peak_states": 45,
+      "worker_peak_rss_bytes": 121970688,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.011640282999999998,
+      "monitor": {
+        "updates": 5850,
+        "periodic": 1,
+        "boundaries": 33,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R2_06_N2_E",
+      "config": "N2",
+      "arm": "E",
+      "cpu": 0.034553000000000667,
+      "wall": 0.035521428915672004,
+      "returncode": 0,
+      "logF": 0.03237356149569682,
+      "peak_states": 15,
+      "worker_peak_rss_bytes": 121970688,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.0036587439999999985,
+      "monitor": {
+        "updates": 1240,
+        "periodic": 0,
+        "boundaries": 53,
+        "cpu": 8.919799999999867e-05
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 15,
+          "U_edges": 0,
+          "A": 1,
+          "B": 9,
+          "target": 15
+        },
+        {
+          "row": 1,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 2,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 3,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 4,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 5,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 6,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 7,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 8,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 9,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 10,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 11,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        }
+      ]
+    },
+    {
+      "name": "R2_06_N2_U",
+      "config": "N2",
+      "arm": "U",
+      "cpu": 0.03452599999999878,
+      "wall": 0.03560292301699519,
+      "returncode": 0,
+      "logF": 0.03237356149569731,
+      "peak_states": 15,
+      "worker_peak_rss_bytes": 121970688,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.0039991309999999995,
+      "monitor": {
+        "updates": 845,
+        "periodic": 0,
+        "boundaries": 29,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 15,
+          "U_edges": 15,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R3_01_P3_U",
+      "config": "P3",
+      "arm": "U",
+      "cpu": 2.008292999999999,
+      "wall": 2.046202016994357,
+      "returncode": 0,
+      "logF": 0.9915028758849319,
+      "peak_states": 4845,
+      "worker_peak_rss_bytes": 121970688,
+      "preprocess_cpu": 0.003999212000000002,
+      "recurrence_cpu": 1.895866426,
+      "monitor": {
+        "updates": 753576,
+        "periodic": 183,
+        "boundaries": 41,
+        "cpu": 0.011048563000000122
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 153,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 4845,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 4845,
+          "U_edges": 74613,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R3_01_P3_E",
+      "config": "P3",
+      "arm": "E",
+      "cpu": 0.8860609999999963,
+      "wall": 0.9060275419615209,
+      "returncode": 0,
+      "logF": 0.991502875884932,
+      "peak_states": 4845,
+      "worker_peak_rss_bytes": 144891904,
+      "preprocess_cpu": 0.003998410000000001,
+      "recurrence_cpu": 0.7737934190000001,
+      "monitor": {
+        "updates": 619888,
+        "periodic": 151,
+        "boundaries": 3409,
+        "cpu": 0.03132350100000009
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 0,
+          "A": 1,
+          "B": 33,
+          "target": 153
+        },
+        {
+          "row": 1,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 4845
+        },
+        {
+          "row": 2,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 3,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 4,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 5,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 6,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 7,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 8,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 9,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 10,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        },
+        {
+          "row": 11,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349
+        }
+      ]
+    },
+    {
+      "name": "R3_02_N2_E",
+      "config": "N2",
+      "arm": "E",
+      "cpu": 0.03516100000000161,
+      "wall": 0.03634306893218309,
+      "returncode": 0,
+      "logF": 0.03237356149569682,
+      "peak_states": 15,
+      "worker_peak_rss_bytes": 162226176,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.0,
+      "monitor": {
+        "updates": 1240,
+        "periodic": 0,
+        "boundaries": 53,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 15,
+          "U_edges": 0,
+          "A": 1,
+          "B": 9,
+          "target": 15
+        },
+        {
+          "row": 1,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 2,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 3,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 4,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 5,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 6,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 7,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 8,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 9,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 10,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        },
+        {
+          "row": 11,
+          "states": 15,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 35
+        }
+      ]
+    },
+    {
+      "name": "R3_02_N2_U",
+      "config": "N2",
+      "arm": "U",
+      "cpu": 0.034721999999997755,
+      "wall": 0.03580336109735072,
+      "returncode": 0,
+      "logF": 0.03237356149569731,
+      "peak_states": 15,
+      "worker_peak_rss_bytes": 162226176,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.003156820999999997,
+      "monitor": {
+        "updates": 845,
+        "periodic": 0,
+        "boundaries": 29,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 15,
+          "U_edges": 15,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 15,
+          "U_edges": 70,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R3_03_A4_U",
+      "config": "A4",
+      "arm": "U",
+      "cpu": 3.3588710000000033,
+      "wall": 3.4206604859791696,
+      "returncode": 0,
+      "logF": 163.3494123881652,
+      "peak_states": 1325,
+      "worker_peak_rss_bytes": 162226176,
+      "preprocess_cpu": 0.011653388000000004,
+      "recurrence_cpu": 3.292517526,
+      "monitor": {
+        "updates": 1530080,
+        "periodic": 373,
+        "boundaries": 45,
+        "cpu": 0.006666204000000064
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 1325,
+          "U_edges": 1325,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 12,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 13,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 14,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 15,
+          "states": 1325,
+          "U_edges": 100725,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R3_03_A4_E",
+      "config": "A4",
+      "arm": "E",
+      "cpu": 0.2592709999999965,
+      "wall": 0.2652570940554142,
+      "returncode": 0,
+      "logF": 163.3494123881652,
+      "peak_states": 1325,
+      "worker_peak_rss_bytes": 162344960,
+      "preprocess_cpu": 0.011996380999999997,
+      "recurrence_cpu": 0.192142512,
+      "monitor": {
+        "updates": 172510,
+        "periodic": 42,
+        "boundaries": 77,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1,
+          "B": 49,
+          "target": 1325
+        },
+        {
+          "row": 1,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 2,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 3,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 4,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 5,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 6,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 7,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 8,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 9,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 10,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 11,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 12,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 13,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 14,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        },
+        {
+          "row": 15,
+          "states": 1325,
+          "U_edges": 0,
+          "A": 1325,
+          "B": 3991,
+          "target": 4901
+        }
+      ]
+    },
+    {
+      "name": "R3_04_Z2_E",
+      "config": "Z2",
+      "arm": "E",
+      "cpu": 0.041172999999999016,
+      "wall": 0.042364725028164685,
+      "returncode": 0,
+      "logF": 0.16092898427281657,
+      "peak_states": 45,
+      "worker_peak_rss_bytes": 166969344,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.007998442999999997,
+      "monitor": {
+        "updates": 5868,
+        "periodic": 1,
+        "boundaries": 57,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 0,
+          "A": 1,
+          "B": 17,
+          "target": 45
+        },
+        {
+          "row": 1,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 2,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 3,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 4,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 5,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 6,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 7,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 8,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 9,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 10,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        },
+        {
+          "row": 11,
+          "states": 45,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 165
+        }
+      ]
+    },
+    {
+      "name": "R3_04_Z2_U",
+      "config": "Z2",
+      "arm": "U",
+      "cpu": 0.046673999999997995,
+      "wall": 0.0478636350017041,
+      "returncode": 0,
+      "logF": 0.1609289842728164,
+      "peak_states": 45,
+      "worker_peak_rss_bytes": 166969344,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.015632201,
+      "monitor": {
+        "updates": 5850,
+        "periodic": 1,
+        "boundaries": 33,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 45,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R3_05_N3_U",
+      "config": "N3",
+      "arm": "U",
+      "cpu": 0.12387700000000235,
+      "wall": 0.12690968695096672,
+      "returncode": 0,
+      "logF": 0.19229894688303753,
+      "peak_states": 495,
+      "worker_peak_rss_bytes": 166969344,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.082281866,
+      "monitor": {
+        "updates": 30930,
+        "periodic": 7,
+        "boundaries": 33,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 45,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 495,
+          "U_edges": 495,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 495,
+          "U_edges": 3003,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    },
+    {
+      "name": "R3_05_N3_E",
+      "config": "N3",
+      "arm": "E",
+      "cpu": 0.10772000000000048,
+      "wall": 0.11045469401869923,
+      "returncode": 0,
+      "logF": 0.19229894688303797,
+      "peak_states": 495,
+      "worker_peak_rss_bytes": 169132032,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.06669092099999999,
+      "monitor": {
+        "updates": 39858,
+        "periodic": 9,
+        "boundaries": 1025,
+        "cpu": 0.0039996120000000066
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 0,
+          "A": 1,
+          "B": 17,
+          "target": 45
+        },
+        {
+          "row": 1,
+          "states": 495,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 495
+        },
+        {
+          "row": 2,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 3,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 4,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 5,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 6,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 7,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 8,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 9,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 10,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        },
+        {
+          "row": 11,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287
+        }
+      ]
+    },
+    {
+      "name": "R3_06_P2_E",
+      "config": "P2",
+      "arm": "E",
+      "cpu": 0.07220700000000052,
+      "wall": 0.07443576795049012,
+      "returncode": 0,
+      "logF": 0.8054773806577976,
+      "peak_states": 153,
+      "worker_peak_rss_bytes": 170778624,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.035099646,
+      "monitor": {
+        "updates": 34612,
+        "periodic": 8,
+        "boundaries": 65,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 0,
+          "A": 1,
+          "B": 33,
+          "target": 153
+        },
+        {
+          "row": 1,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 2,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 3,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 4,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 5,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 6,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 7,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 8,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 9,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 10,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        },
+        {
+          "row": 11,
+          "states": 153,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 969
+        }
+      ]
+    },
+    {
+      "name": "R3_06_P2_U",
+      "config": "P2",
+      "arm": "U",
+      "cpu": 0.1547130000000012,
+      "wall": 0.15806991199497133,
+      "returncode": 0,
+      "logF": 0.8054773806577962,
+      "peak_states": 153,
+      "worker_peak_rss_bytes": 170778624,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.121465142,
+      "monitor": {
+        "updates": 55896,
+        "periodic": 13,
+        "boundaries": 41,
+        "cpu": 0.0
+      },
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "rows_brief": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 153,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 1,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 2,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 3,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 4,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 5,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 6,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 7,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 8,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 9,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 10,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        },
+        {
+          "row": 11,
+          "states": 153,
+          "U_edges": 4845,
+          "A": 0,
+          "B": 0,
+          "target": 0
+        }
+      ]
+    }
+  ]
+}

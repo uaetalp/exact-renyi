@@ -1,0 +1,228 @@
+{
+  "certificate_B": {
+    "T": 24,
+    "b": 3,
+    "k": 2,
+    "p": "1/64",
+    "sigma2": "4",
+    "a": 16,
+    "coefficient_pair_products": "[4,2,1] outer product /21",
+    "epsilon": "657/1000",
+    "delta": "1/100000",
+    "precision": 80,
+    "rdp_width_upper_max": "1e-8",
+    "repetitions": 3,
+    "order": [
+      [
+        "U",
+        "E"
+      ],
+      [
+        "E",
+        "U"
+      ],
+      [
+        "U",
+        "E"
+      ]
+    ],
+    "updates_per_worker_hard": 2500000,
+    "exp_cache_entries_max": 15361,
+    "fresh_worker_and_cache_each_time": true
+  },
+  "C_cases": [
+    {
+      "id": "L96",
+      "T": 96,
+      "b": 2,
+      "k": 2,
+      "a": 8,
+      "p": "1/64",
+      "sigma2": "4",
+      "coefficient_family": "geometric"
+    },
+    {
+      "id": "L48",
+      "T": 48,
+      "b": 3,
+      "k": 2,
+      "a": 12,
+      "p": "1/64",
+      "sigma2": "4",
+      "coefficient_family": "geometric"
+    },
+    {
+      "id": "BW4_LOW",
+      "T": 12,
+      "b": 4,
+      "k": 2,
+      "a": 8,
+      "p": "1/64",
+      "sigma2": "4",
+      "coefficient_family": "geometric"
+    },
+    {
+      "id": "BW4_EQ",
+      "T": 12,
+      "b": 4,
+      "k": 2,
+      "a": 16,
+      "p": "1/64",
+      "sigma2": "4",
+      "coefficient_family": "geometric"
+    },
+    {
+      "id": "P_HIGH",
+      "T": 48,
+      "b": 3,
+      "k": 2,
+      "a": 12,
+      "p": "1/4",
+      "sigma2": "4",
+      "coefficient_family": "geometric"
+    },
+    {
+      "id": "C_VARY",
+      "T": 48,
+      "b": 3,
+      "k": 2,
+      "a": 12,
+      "p": "1/64",
+      "sigma2": "4",
+      "coefficient_family": "alternating_rows"
+    }
+  ],
+  "C_repetitions": 3,
+  "C_task_order": [
+    [
+      "L96",
+      "L48",
+      "BW4_LOW",
+      "BW4_EQ",
+      "P_HIGH",
+      "C_VARY"
+    ],
+    [
+      "C_VARY",
+      "P_HIGH",
+      "BW4_EQ",
+      "BW4_LOW",
+      "L48",
+      "L96"
+    ],
+    [
+      "BW4_EQ",
+      "L96",
+      "P_HIGH",
+      "BW4_LOW",
+      "C_VARY",
+      "L48"
+    ]
+  ],
+  "C_arm_order_by_round": [
+    [
+      "U",
+      "E"
+    ],
+    [
+      "E",
+      "U"
+    ],
+    [
+      "U",
+      "E"
+    ]
+  ],
+  "numeric_float_tolerance": {
+    "absolute": 1e-10,
+    "relative": 1e-09
+  },
+  "A_QA": [
+    {
+      "id": "A1",
+      "kind": "primitive_original_fixed_cases",
+      "precision": 80,
+      "rational_taylor_terms": 200,
+      "DP_evaluations": 0
+    },
+    {
+      "id": "A2",
+      "kind": "certified_labeled_path",
+      "T": 4,
+      "b": 3,
+      "k": 2,
+      "a": 2,
+      "p": "1/64",
+      "sigma2": "4",
+      "C": "geometric",
+      "precision": 80,
+      "DP_evaluations": 2,
+      "oracle_domain_calls": 1
+    },
+    {
+      "id": "A3",
+      "kind": "generic_float_labeled_path",
+      "oracle_precisions": [
+        80,
+        120
+      ],
+      "tuple_cap_per_case_per_precision": 10000,
+      "cases": [
+        {
+          "id": "O_B4",
+          "T": 4,
+          "b": 4,
+          "k": 2,
+          "a": 2,
+          "p": "1/8",
+          "sigma2": "4",
+          "C": "geometric"
+        },
+        {
+          "id": "O_K3",
+          "T": 4,
+          "b": 3,
+          "k": 3,
+          "a": 2,
+          "p": "1/8",
+          "sigma2": "4",
+          "C": "geometric"
+        },
+        {
+          "id": "O_VARY",
+          "T": 4,
+          "b": 3,
+          "k": 2,
+          "a": 3,
+          "p": "1/8",
+          "sigma2": "4",
+          "C": "alternating_rows"
+        }
+      ],
+      "DP_evaluations": 6,
+      "oracle_domain_calls": 3
+    },
+    {
+      "id": "A4",
+      "kind": "support_zero_and_rejected_inputs",
+      "T": 5,
+      "b": 4,
+      "k": 2,
+      "a": 4,
+      "p": "1/8",
+      "sigma2": "4",
+      "C": "zero",
+      "DP_evaluations": 2,
+      "rejected_inputs": [
+        "bandwidth_exceeds_separation",
+        "amplitude_dependent_cooldown",
+        "heterogeneous_unencoded_replica_probabilities",
+        "singular_C_in_data_mechanism_mode"
+      ]
+    }
+  ],
+  "coefficients": {
+    "geometric": "D_r=2^(b-1-r); S=sum D_r^2; C[t,t-r]=D_r/sqrt(S) within horizon",
+    "alternating_rows": "geometric multiplied by eta_t=1 on odd 1-based rows, 3/4 on even rows"
+  }
+}

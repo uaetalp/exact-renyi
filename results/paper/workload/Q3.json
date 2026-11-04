@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "moment_calls": 0,
+  "epsilon_values": [
+    2.552804900168968,
+    4.087861628831666,
+    5.622918357494362
+  ],
+  "screen_cases": "PASS",
+  "scalar_precision": [
+    80,
+    120
+  ],
+  "endpoint_attribution": "PASS"
+}

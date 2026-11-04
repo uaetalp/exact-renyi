@@ -1,0 +1,359 @@
+[
+  {
+    "name": "Q1",
+    "spec": {
+      "kind": "qa",
+      "name": "Q1"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.709847,
+    "wall": 0.7148522600764409
+  },
+  {
+    "name": "Q2",
+    "spec": {
+      "kind": "qa",
+      "name": "Q2"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.03539799999999996,
+    "wall": 0.03635834401939064
+  },
+  {
+    "name": "Q3",
+    "spec": {
+      "kind": "qa",
+      "name": "Q3"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.03696399999999997,
+    "wall": 0.037911972030997276
+  },
+  {
+    "name": "R1_01_W0_B",
+    "spec": {
+      "kind": "cost",
+      "name": "W0",
+      "arm": "B"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.03648799999999994,
+    "wall": 0.037336386973038316
+  },
+  {
+    "name": "R1_01_W0_U",
+    "spec": {
+      "kind": "cost",
+      "name": "W0",
+      "arm": "U"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.04135600000000003,
+    "wall": 0.042473220033571124
+  },
+  {
+    "name": "R1_01_W0_E",
+    "spec": {
+      "kind": "cost",
+      "name": "W0",
+      "arm": "E"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.040906999999999874,
+    "wall": 0.042028713040053844
+  },
+  {
+    "name": "R1_02_W3_B",
+    "spec": {
+      "kind": "cost",
+      "name": "W3",
+      "arm": "B"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.037491000000000003,
+    "wall": 0.038587806979194283
+  },
+  {
+    "name": "R1_02_W3_U",
+    "spec": {
+      "kind": "cost",
+      "name": "W3",
+      "arm": "U"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 5.2434,
+    "wall": 5.290666508954018
+  },
+  {
+    "name": "R1_02_W3_E",
+    "spec": {
+      "kind": "cost",
+      "name": "W3",
+      "arm": "E"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 2.2301550000000003,
+    "wall": 2.254289051052183
+  },
+  {
+    "name": "R1_03_W4_B",
+    "spec": {
+      "kind": "cost",
+      "name": "W4",
+      "arm": "B"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.040153999999998496,
+    "wall": 0.04137638211250305
+  },
+  {
+    "name": "R1_03_W4_U",
+    "spec": {
+      "kind": "cost",
+      "name": "W4",
+      "arm": "U"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 7.705100000000001,
+    "wall": 7.78137068299111
+  },
+  {
+    "name": "R1_03_W4_E",
+    "spec": {
+      "kind": "cost",
+      "name": "W4",
+      "arm": "E"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.5235669999999975,
+    "wall": 0.5299750750418752
+  },
+  {
+    "name": "R2_01_W4_E",
+    "spec": {
+      "kind": "cost",
+      "name": "W4",
+      "arm": "E"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.5237330000000019,
+    "wall": 0.5302888070000336
+  },
+  {
+    "name": "R2_01_W4_U",
+    "spec": {
+      "kind": "cost",
+      "name": "W4",
+      "arm": "U"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 7.858965999999998,
+    "wall": 7.944552378030494
+  },
+  {
+    "name": "R2_01_W4_B",
+    "spec": {
+      "kind": "cost",
+      "name": "W4",
+      "arm": "B"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.04023399999999888,
+    "wall": 0.04150625003967434
+  },
+  {
+    "name": "R2_02_W3_E",
+    "spec": {
+      "kind": "cost",
+      "name": "W3",
+      "arm": "E"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 2.2281340000000025,
+    "wall": 2.2580838130088523
+  },
+  {
+    "name": "R2_02_W3_U",
+    "spec": {
+      "kind": "cost",
+      "name": "W3",
+      "arm": "U"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 5.194275000000001,
+    "wall": 5.256805914919823
+  },
+  {
+    "name": "R2_02_W3_B",
+    "spec": {
+      "kind": "cost",
+      "name": "W3",
+      "arm": "B"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.03775999999999363,
+    "wall": 0.03907616902142763
+  },
+  {
+    "name": "R2_03_W0_E",
+    "spec": {
+      "kind": "cost",
+      "name": "W0",
+      "arm": "E"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.04100900000000768,
+    "wall": 0.04234657506458461
+  },
+  {
+    "name": "R2_03_W0_U",
+    "spec": {
+      "kind": "cost",
+      "name": "W0",
+      "arm": "U"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.04139799999999594,
+    "wall": 0.04277689603623003
+  },
+  {
+    "name": "R2_03_W0_B",
+    "spec": {
+      "kind": "cost",
+      "name": "W0",
+      "arm": "B"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.03643599999999869,
+    "wall": 0.037813147995620966
+  },
+  {
+    "name": "R3_01_W3_U",
+    "spec": {
+      "kind": "cost",
+      "name": "W3",
+      "arm": "U"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 5.241809000000007,
+    "wall": 5.315256261033937
+  },
+  {
+    "name": "R3_01_W3_B",
+    "spec": {
+      "kind": "cost",
+      "name": "W3",
+      "arm": "B"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.03780899999999787,
+    "wall": 0.03922739496920258
+  },
+  {
+    "name": "R3_01_W3_E",
+    "spec": {
+      "kind": "cost",
+      "name": "W3",
+      "arm": "E"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 2.2558029999999976,
+    "wall": 2.2926505600335076
+  },
+  {
+    "name": "R3_02_W0_U",
+    "spec": {
+      "kind": "cost",
+      "name": "W0",
+      "arm": "U"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.04147100000000403,
+    "wall": 0.04295917006675154
+  },
+  {
+    "name": "R3_02_W0_B",
+    "spec": {
+      "kind": "cost",
+      "name": "W0",
+      "arm": "B"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.03664299999999998,
+    "wall": 0.03809551999438554
+  },
+  {
+    "name": "R3_02_W0_E",
+    "spec": {
+      "kind": "cost",
+      "name": "W0",
+      "arm": "E"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.041194000000003284,
+    "wall": 0.04265133908484131
+  },
+  {
+    "name": "R3_03_W4_U",
+    "spec": {
+      "kind": "cost",
+      "name": "W4",
+      "arm": "U"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 7.931407999999993,
+    "wall": 8.059830015990883
+  },
+  {
+    "name": "R3_03_W4_B",
+    "spec": {
+      "kind": "cost",
+      "name": "W4",
+      "arm": "B"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.040380000000002525,
+    "wall": 0.04188487399369478
+  },
+  {
+    "name": "R3_03_W4_E",
+    "spec": {
+      "kind": "cost",
+      "name": "W4",
+      "arm": "E"
+    },
+    "status": "RETURNED",
+    "returncode": 0,
+    "cpu": 0.5208059999999973,
+    "wall": 0.5306311110034585
+  }
+]

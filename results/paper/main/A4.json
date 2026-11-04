@@ -1,0 +1,179 @@
+{
+  "status": "PASS",
+  "results": {
+    "U": {
+      "status": "PASS",
+      "numeric": "ordinary_float_not_certificate",
+      "value": -1.3082033523811605e-16,
+      "rows": [
+        {
+          "row": 1,
+          "states": 15,
+          "counts": {
+            "U": 15,
+            "A": 0,
+            "B": 0,
+            "target": 0
+          },
+          "sha256": "f7721a457534fbb63c54a1de7a55ffe54e1545890eef9a2cf16a301a0831c175"
+        },
+        {
+          "row": 2,
+          "states": 70,
+          "counts": {
+            "U": 70,
+            "A": 0,
+            "B": 0,
+            "target": 0
+          },
+          "sha256": "62f8f2a256223452355a050cba49198767dab65103e81e36d7dea9ee377ccd87"
+        },
+        {
+          "row": 3,
+          "states": 210,
+          "counts": {
+            "U": 210,
+            "A": 0,
+            "B": 0,
+            "target": 0
+          },
+          "sha256": "b5ecf9ec26f19b7b2fb16455d6e5c991dd3bf32c3bdf2dbdea58888eeafae3d2"
+        },
+        {
+          "row": 4,
+          "states": 210,
+          "counts": {
+            "U": 495,
+            "A": 0,
+            "B": 0,
+            "target": 0
+          },
+          "sha256": "528f18a2a3e44ea98b2549d8765c03d1f2a64a353cea16c7764e1509101a5f3f"
+        },
+        {
+          "row": 5,
+          "states": 210,
+          "counts": {
+            "U": 495,
+            "A": 0,
+            "B": 0,
+            "target": 0
+          },
+          "sha256": "0032ce374896c0661c5702bf51939f7156491f2f70ab2d751e75f3ebf32b8bbf"
+        }
+      ],
+      "peak_states": 210,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.0039980189999999985,
+      "monitor": {
+        "n": 1345,
+        "periodic": 0,
+        "boundaries": 5,
+        "cpu": 0.0,
+        "limit": 25000000
+      },
+      "exp_cache_entries": 0,
+      "kernel_sizes": [
+        1,
+        3,
+        6,
+        10,
+        15
+      ]
+    },
+    "E": {
+      "status": "PASS",
+      "numeric": "ordinary_float_not_certificate",
+      "value": 4.639250985463965e-17,
+      "rows": [
+        {
+          "row": 1,
+          "states": 15,
+          "counts": {
+            "U": 0,
+            "A": 1,
+            "B": 9,
+            "target": 15
+          },
+          "sha256": "f7721a457534fbb63c54a1de7a55ffe54e1545890eef9a2cf16a301a0831c175"
+        },
+        {
+          "row": 2,
+          "states": 70,
+          "counts": {
+            "U": 0,
+            "A": 15,
+            "B": 55,
+            "target": 70
+          },
+          "sha256": "62f8f2a256223452355a050cba49198767dab65103e81e36d7dea9ee377ccd87"
+        },
+        {
+          "row": 3,
+          "states": 210,
+          "counts": {
+            "U": 0,
+            "A": 70,
+            "B": 182,
+            "target": 210
+          },
+          "sha256": "b5ecf9ec26f19b7b2fb16455d6e5c991dd3bf32c3bdf2dbdea58888eeafae3d2"
+        },
+        {
+          "row": 4,
+          "states": 210,
+          "counts": {
+            "U": 0,
+            "A": 210,
+            "B": 450,
+            "target": 330
+          },
+          "sha256": "ef54832ef8afbb0d5f1f0b75d78d57d1cbd02da6e5f3f56dd13801fcb1f18da8"
+        },
+        {
+          "row": 5,
+          "states": 210,
+          "counts": {
+            "U": 0,
+            "A": 210,
+            "B": 450,
+            "target": 330
+          },
+          "sha256": "02fb875a21322562d9829c73ee1c69c3981c27edb7ee1cef5b7a48cf52299bb7"
+        }
+      ],
+      "peak_states": 210,
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.008337028000000003,
+      "monitor": {
+        "n": 2667,
+        "periodic": 0,
+        "boundaries": 5,
+        "cpu": 0.0,
+        "limit": 25000000
+      },
+      "exp_cache_entries": 0,
+      "kernel_sizes": [
+        1,
+        3,
+        6,
+        10,
+        15
+      ]
+    }
+  },
+  "rejected": [
+    {
+      "bandwidth": 5
+    },
+    {
+      "amplitude_dependent": true
+    },
+    {
+      "heterogeneous": true
+    },
+    {
+      "data_mechanism": true
+    }
+  ]
+}

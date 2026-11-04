@@ -1,0 +1,314 @@
+{
+  "status": "PASS",
+  "moment_calls": 4,
+  "values": {
+    "2U": {
+      "logF": 0.5,
+      "peak_states": 1,
+      "rows": [
+        {
+          "row": 0,
+          "states": 1,
+          "U_edges": 1,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": [
+            [
+              [
+                2,
+                2,
+                2
+              ],
+              0.25
+            ]
+          ]
+        },
+        {
+          "row": 1,
+          "states": 1,
+          "U_edges": 1,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              0.25
+            ]
+          ]
+        },
+        {
+          "row": 2,
+          "states": 1,
+          "U_edges": 1,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": [
+            [
+              [
+                2,
+                2,
+                2
+              ],
+              0.5
+            ]
+          ]
+        }
+      ],
+      "monitor": {
+        "updates": 5,
+        "periodic": 0,
+        "boundaries": 9,
+        "cpu": 0.0
+      },
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.0,
+      "worker_peak_rss_bytes": 16662528,
+      "kernel_levels_generated": [
+        1,
+        1,
+        1
+      ]
+    },
+    "2E": {
+      "logF": 0.5,
+      "peak_states": 1,
+      "rows": [
+        {
+          "row": 0,
+          "states": 1,
+          "U_edges": 0,
+          "A": 1,
+          "B": 3,
+          "target": 1,
+          "weights": [
+            [
+              [
+                2,
+                2,
+                2
+              ],
+              0.25
+            ]
+          ]
+        },
+        {
+          "row": 1,
+          "states": 1,
+          "U_edges": 0,
+          "A": 1,
+          "B": 1,
+          "target": 1,
+          "weights": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              0.25
+            ]
+          ]
+        },
+        {
+          "row": 2,
+          "states": 1,
+          "U_edges": 0,
+          "A": 1,
+          "B": 3,
+          "target": 1,
+          "weights": [
+            [
+              [
+                2,
+                2,
+                2
+              ],
+              0.5
+            ]
+          ]
+        }
+      ],
+      "monitor": {
+        "updates": 15,
+        "periodic": 0,
+        "boundaries": 15,
+        "cpu": 0.0
+      },
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.0,
+      "worker_peak_rss_bytes": 16662528,
+      "kernel_levels_generated": [
+        1,
+        1,
+        1
+      ]
+    },
+    "4U": {
+      "logF": 3.0,
+      "peak_states": 1,
+      "rows": [
+        {
+          "row": 0,
+          "states": 1,
+          "U_edges": 1,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": [
+            [
+              [
+                4,
+                4,
+                4
+              ],
+              1.5
+            ]
+          ]
+        },
+        {
+          "row": 1,
+          "states": 1,
+          "U_edges": 1,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              1.5
+            ]
+          ]
+        },
+        {
+          "row": 2,
+          "states": 1,
+          "U_edges": 1,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": [
+            [
+              [
+                4,
+                4,
+                4
+              ],
+              3.0
+            ]
+          ]
+        }
+      ],
+      "monitor": {
+        "updates": 7,
+        "periodic": 0,
+        "boundaries": 11,
+        "cpu": 0.0
+      },
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.0,
+      "worker_peak_rss_bytes": 16662528,
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "4E": {
+      "logF": 3.0,
+      "peak_states": 1,
+      "rows": [
+        {
+          "row": 0,
+          "states": 1,
+          "U_edges": 0,
+          "A": 1,
+          "B": 5,
+          "target": 1,
+          "weights": [
+            [
+              [
+                4,
+                4,
+                4
+              ],
+              1.5
+            ]
+          ]
+        },
+        {
+          "row": 1,
+          "states": 1,
+          "U_edges": 0,
+          "A": 1,
+          "B": 1,
+          "target": 1,
+          "weights": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              1.5
+            ]
+          ]
+        },
+        {
+          "row": 2,
+          "states": 1,
+          "U_edges": 0,
+          "A": 1,
+          "B": 5,
+          "target": 1,
+          "weights": [
+            [
+              [
+                4,
+                4,
+                4
+              ],
+              3.0
+            ]
+          ]
+        }
+      ],
+      "monitor": {
+        "updates": 21,
+        "periodic": 0,
+        "boundaries": 17,
+        "cpu": 0.00026433600000000043
+      },
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.00026433600000000043,
+      "worker_peak_rss_bytes": 16662528,
+      "kernel_levels_generated": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "zero_results": {
+    "p0": 0,
+    "C0": 0
+  },
+  "reverse_rdp": {
+    "2": 0.5,
+    "4": 1.0
+  }
+}

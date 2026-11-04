@@ -1,0 +1,407 @@
+[
+  {
+    "id": "A2",
+    "group": "A",
+    "status": "PASS",
+    "cpu": 0.535433,
+    "wall": 0.5672661979915574,
+    "returncode": 0,
+    "result_path": "A2.json"
+  },
+  {
+    "id": "A3",
+    "group": "A",
+    "status": "PASS",
+    "cpu": 0.35788500000000006,
+    "wall": 0.377828286960721,
+    "returncode": 0,
+    "result_path": "A3.json"
+  },
+  {
+    "id": "A4",
+    "group": "A",
+    "status": "PASS",
+    "cpu": 0.05951499999999992,
+    "wall": 0.08262178197037429,
+    "returncode": 0,
+    "result_path": "A4.json"
+  },
+  {
+    "id": "B_R1_U",
+    "group": "B",
+    "status": "PASS",
+    "cpu": 19.791722000000004,
+    "wall": 21.25298966804985,
+    "returncode": 0,
+    "result_path": "B_R1_U.json"
+  },
+  {
+    "id": "B_R1_E",
+    "group": "B",
+    "status": "PASS",
+    "cpu": 11.615821999999998,
+    "wall": 12.519662864971906,
+    "returncode": 0,
+    "result_path": "B_R1_E.json"
+  },
+  {
+    "id": "B_R2_E",
+    "group": "B",
+    "status": "PASS",
+    "cpu": 11.370814000000005,
+    "wall": 12.301988004008308,
+    "returncode": 0,
+    "result_path": "B_R2_E.json"
+  },
+  {
+    "id": "B_R2_U",
+    "group": "B",
+    "status": "PASS",
+    "cpu": 20.024959,
+    "wall": 21.70193919201847,
+    "returncode": 0,
+    "result_path": "B_R2_U.json"
+  },
+  {
+    "id": "B_R3_U",
+    "group": "B",
+    "status": "PASS",
+    "cpu": 20.075038,
+    "wall": 21.825277635012753,
+    "returncode": 0,
+    "result_path": "B_R3_U.json"
+  },
+  {
+    "id": "B_R3_E",
+    "group": "B",
+    "status": "PASS",
+    "cpu": 11.278936999999996,
+    "wall": 12.298355213948525,
+    "returncode": 0,
+    "result_path": "B_R3_E.json"
+  },
+  {
+    "id": "C_R1_L96_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.18759999999999782,
+    "wall": 0.23507492896169424,
+    "returncode": 0,
+    "result_path": "C_R1_L96_U.json"
+  },
+  {
+    "id": "C_R1_L96_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.12689199999999212,
+    "wall": 0.15617282001767308,
+    "returncode": 0,
+    "result_path": "C_R1_L96_E.json"
+  },
+  {
+    "id": "C_R1_L48_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 2.547411999999997,
+    "wall": 2.854108407977037,
+    "returncode": 0,
+    "result_path": "C_R1_L48_U.json"
+  },
+  {
+    "id": "C_R1_L48_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 1.3922150000000042,
+    "wall": 1.6117526839952916,
+    "returncode": 0,
+    "result_path": "C_R1_L48_E.json"
+  },
+  {
+    "id": "C_R1_BW4_LOW_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.4802400000000072,
+    "wall": 0.5380358239635825,
+    "returncode": 0,
+    "result_path": "C_R1_BW4_LOW_U.json"
+  },
+  {
+    "id": "C_R1_BW4_LOW_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.3760889999999976,
+    "wall": 0.44045236299280077,
+    "returncode": 0,
+    "result_path": "C_R1_BW4_LOW_E.json"
+  },
+  {
+    "id": "C_R1_BW4_EQ_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 21.414409000000003,
+    "wall": 24.011643458041362,
+    "returncode": 0,
+    "result_path": "C_R1_BW4_EQ_U.json"
+  },
+  {
+    "id": "C_R1_BW4_EQ_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 10.95742400000001,
+    "wall": 12.408163765911013,
+    "returncode": 0,
+    "result_path": "C_R1_BW4_EQ_E.json"
+  },
+  {
+    "id": "C_R1_P_HIGH_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 2.551388999999981,
+    "wall": 2.916650369996205,
+    "returncode": 0,
+    "result_path": "C_R1_P_HIGH_U.json"
+  },
+  {
+    "id": "C_R1_P_HIGH_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 1.350399999999997,
+    "wall": 1.5999304830329493,
+    "returncode": 0,
+    "result_path": "C_R1_P_HIGH_E.json"
+  },
+  {
+    "id": "C_R1_C_VARY_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 2.5249950000000183,
+    "wall": 2.904584959964268,
+    "returncode": 0,
+    "result_path": "C_R1_C_VARY_U.json"
+  },
+  {
+    "id": "C_R1_C_VARY_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 1.32691,
+    "wall": 1.588395103928633,
+    "returncode": 0,
+    "result_path": "C_R1_C_VARY_E.json"
+  },
+  {
+    "id": "C_R2_C_VARY_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 1.3437009999999816,
+    "wall": 1.5753670789999887,
+    "returncode": 0,
+    "result_path": "C_R2_C_VARY_E.json"
+  },
+  {
+    "id": "C_R2_C_VARY_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 2.5273970000000014,
+    "wall": 3.014034264953807,
+    "returncode": 0,
+    "result_path": "C_R2_C_VARY_U.json"
+  },
+  {
+    "id": "C_R2_P_HIGH_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 1.3342960000000121,
+    "wall": 1.5621099839918315,
+    "returncode": 0,
+    "result_path": "C_R2_P_HIGH_E.json"
+  },
+  {
+    "id": "C_R2_P_HIGH_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 2.53144100000001,
+    "wall": 3.0346742699621245,
+    "returncode": 0,
+    "result_path": "C_R2_P_HIGH_U.json"
+  },
+  {
+    "id": "C_R2_BW4_EQ_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 11.106918999999987,
+    "wall": 12.93613035499584,
+    "returncode": 0,
+    "result_path": "C_R2_BW4_EQ_E.json"
+  },
+  {
+    "id": "C_R2_BW4_EQ_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 21.753778,
+    "wall": 25.485910826944746,
+    "returncode": 0,
+    "result_path": "C_R2_BW4_EQ_U.json"
+  },
+  {
+    "id": "C_R2_BW4_LOW_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.3742279999999827,
+    "wall": 0.4401303849881515,
+    "returncode": 0,
+    "result_path": "C_R2_BW4_LOW_E.json"
+  },
+  {
+    "id": "C_R2_BW4_LOW_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.46810000000002105,
+    "wall": 0.5701620070030913,
+    "returncode": 0,
+    "result_path": "C_R2_BW4_LOW_U.json"
+  },
+  {
+    "id": "C_R2_L48_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 1.3460030000000078,
+    "wall": 1.6029553959378973,
+    "returncode": 0,
+    "result_path": "C_R2_L48_E.json"
+  },
+  {
+    "id": "C_R2_L48_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 2.575253999999985,
+    "wall": 3.1426303290063515,
+    "returncode": 0,
+    "result_path": "C_R2_L48_U.json"
+  },
+  {
+    "id": "C_R2_L96_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.1282459999999832,
+    "wall": 0.1768032789696008,
+    "returncode": 0,
+    "result_path": "C_R2_L96_E.json"
+  },
+  {
+    "id": "C_R2_L96_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.18761800000000406,
+    "wall": 0.2383640098851174,
+    "returncode": 0,
+    "result_path": "C_R2_L96_U.json"
+  },
+  {
+    "id": "C_R3_BW4_EQ_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 21.67667000000003,
+    "wall": 25.89853569108527,
+    "returncode": 0,
+    "result_path": "C_R3_BW4_EQ_U.json"
+  },
+  {
+    "id": "C_R3_BW4_EQ_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 10.936511000000003,
+    "wall": 13.186280168010853,
+    "returncode": 0,
+    "result_path": "C_R3_BW4_EQ_E.json"
+  },
+  {
+    "id": "C_R3_L96_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.18653099999998712,
+    "wall": 0.24142517196014524,
+    "returncode": 0,
+    "result_path": "C_R3_L96_U.json"
+  },
+  {
+    "id": "C_R3_L96_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.1265830000000121,
+    "wall": 0.16674331994727254,
+    "returncode": 0,
+    "result_path": "C_R3_L96_E.json"
+  },
+  {
+    "id": "C_R3_P_HIGH_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 2.5446549999999677,
+    "wall": 3.1153818119782954,
+    "returncode": 0,
+    "result_path": "C_R3_P_HIGH_U.json"
+  },
+  {
+    "id": "C_R3_P_HIGH_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 1.5010180000000348,
+    "wall": 1.8894501159666106,
+    "returncode": 0,
+    "result_path": "C_R3_P_HIGH_E.json"
+  },
+  {
+    "id": "C_R3_BW4_LOW_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.47720199999998725,
+    "wall": 0.5952128500211984,
+    "returncode": 0,
+    "result_path": "C_R3_BW4_LOW_U.json"
+  },
+  {
+    "id": "C_R3_BW4_LOW_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 0.3746810000000047,
+    "wall": 0.4673490560380742,
+    "returncode": 0,
+    "result_path": "C_R3_BW4_LOW_E.json"
+  },
+  {
+    "id": "C_R3_C_VARY_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 2.5313400000000117,
+    "wall": 3.150661502033472,
+    "returncode": 0,
+    "result_path": "C_R3_C_VARY_U.json"
+  },
+  {
+    "id": "C_R3_C_VARY_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 1.36527900000002,
+    "wall": 1.7522890910040587,
+    "returncode": 0,
+    "result_path": "C_R3_C_VARY_E.json"
+  },
+  {
+    "id": "C_R3_L48_U",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 2.5519619999999876,
+    "wall": 3.1909994279267266,
+    "returncode": 0,
+    "result_path": "C_R3_L48_U.json"
+  },
+  {
+    "id": "C_R3_L48_E",
+    "group": "C",
+    "status": "PASS",
+    "cpu": 1.317302000000008,
+    "wall": 1.7070335340686142,
+    "returncode": 0,
+    "result_path": "C_R3_L48_E.json"
+  }
+]

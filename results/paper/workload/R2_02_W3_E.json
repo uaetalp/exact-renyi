@@ -1,0 +1,1395 @@
+{
+  "schema": "ic-workload-result-v1",
+  "numeric_status": "ordinary_float_theoretical_bounds_not_certificate",
+  "arm": "E",
+  "spec": {
+    "b": 3,
+    "k": 2,
+    "T": 24,
+    "p": 0.015625,
+    "sigma": 2,
+    "orders": [
+      2,
+      4,
+      8,
+      12,
+      16
+    ]
+  },
+  "screen": false,
+  "moment_calls": 5,
+  "moments": {
+    "2": {
+      "logF": 0.012783820464620553,
+      "peak_states": 15,
+      "rows": [
+        {
+          "row": 0,
+          "states": 6,
+          "U_edges": 6,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 1,
+          "states": 15,
+          "U_edges": 15,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 2,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 3,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 4,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 5,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 6,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 7,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 8,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 9,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 10,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 11,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 12,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 13,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 14,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 15,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 16,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 17,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 18,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 19,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 20,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 21,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 22,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        },
+        {
+          "row": 23,
+          "states": 15,
+          "U_edges": 28,
+          "A": 0,
+          "B": 0,
+          "target": 0,
+          "weights": null
+        }
+      ],
+      "monitor": {
+        "updates": 649,
+        "periodic": 0,
+        "boundaries": 51,
+        "cpu": 0.0
+      },
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.003999441000000003,
+      "worker_peak_rss_bytes": 17657856,
+      "kernel_levels_generated": [
+        1,
+        1,
+        1
+      ]
+    },
+    "4": {
+      "logF": 0.0793699017553182,
+      "peak_states": 70,
+      "rows": [
+        {
+          "row": 0,
+          "states": 15,
+          "U_edges": 0,
+          "A": 1,
+          "B": 9,
+          "target": 15,
+          "weights": null
+        },
+        {
+          "row": 1,
+          "states": 70,
+          "U_edges": 0,
+          "A": 15,
+          "B": 55,
+          "target": 70,
+          "weights": null
+        },
+        {
+          "row": 2,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 3,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 4,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 5,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 6,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 7,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 8,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 9,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 10,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 11,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 12,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 13,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 14,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 15,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 16,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 17,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 18,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 19,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 20,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 21,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 22,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        },
+        {
+          "row": 23,
+          "states": 70,
+          "U_edges": 0,
+          "A": 70,
+          "B": 182,
+          "target": 126,
+          "weights": null
+        }
+      ],
+      "monitor": {
+        "updates": 8529,
+        "periodic": 2,
+        "boundaries": 743,
+        "cpu": 0.011574710000000002
+      },
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.019574686,
+      "worker_peak_rss_bytes": 17657856,
+      "kernel_levels_generated": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "8": {
+      "logF": 0.3992210582988374,
+      "peak_states": 495,
+      "rows": [
+        {
+          "row": 0,
+          "states": 45,
+          "U_edges": 0,
+          "A": 1,
+          "B": 17,
+          "target": 45,
+          "weights": null
+        },
+        {
+          "row": 1,
+          "states": 495,
+          "U_edges": 0,
+          "A": 45,
+          "B": 285,
+          "target": 495,
+          "weights": null
+        },
+        {
+          "row": 2,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 3,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 4,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 5,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 6,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 7,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 8,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 9,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 10,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 11,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 12,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 13,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 14,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 15,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 16,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 17,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 18,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 19,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 20,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 21,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 22,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        },
+        {
+          "row": 23,
+          "states": 495,
+          "U_edges": 0,
+          "A": 495,
+          "B": 2079,
+          "target": 1287,
+          "weights": null
+        }
+      ],
+      "monitor": {
+        "updates": 86130,
+        "periodic": 21,
+        "boundaries": 2125,
+        "cpu": 0.018979298000000033
+      },
+      "preprocess_cpu": 0.0,
+      "recurrence_cpu": 0.116662243,
+      "worker_peak_rss_bytes": 17657856,
+      "kernel_levels_generated": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "12": {
+      "logF": 1.0260152760096013,
+      "peak_states": 1820,
+      "rows": [
+        {
+          "row": 0,
+          "states": 91,
+          "U_edges": 0,
+          "A": 1,
+          "B": 25,
+          "target": 91,
+          "weights": null
+        },
+        {
+          "row": 1,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 91,
+          "B": 819,
+          "target": 1820,
+          "weights": null
+        },
+        {
+          "row": 2,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 3,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 4,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 5,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 6,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 7,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 8,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 9,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 10,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 11,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 12,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 13,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 14,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 15,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 16,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 17,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 18,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 19,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 20,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 21,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 22,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        },
+        {
+          "row": 23,
+          "states": 1820,
+          "U_edges": 0,
+          "A": 1820,
+          "B": 10556,
+          "target": 6188,
+          "weights": null
+        }
+      ],
+      "monitor": {
+        "updates": 411987,
+        "periodic": 100,
+        "boundaries": 4241,
+        "cpu": 0.04721886999999997
+      },
+      "preprocess_cpu": 0.0001393209999999978,
+      "recurrence_cpu": 0.497176857,
+      "worker_peak_rss_bytes": 18046976,
+      "kernel_levels_generated": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "16": {
+      "logF": 2.069302315421876,
+      "peak_states": 4845,
+      "rows": [
+        {
+          "row": 0,
+          "states": 153,
+          "U_edges": 0,
+          "A": 1,
+          "B": 33,
+          "target": 153,
+          "weights": null
+        },
+        {
+          "row": 1,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 153,
+          "B": 1785,
+          "target": 4845,
+          "weights": null
+        },
+        {
+          "row": 2,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 3,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 4,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 5,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 6,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 7,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 8,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 9,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 10,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 11,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 12,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 13,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 14,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 15,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 16,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 17,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 18,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 19,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 20,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 21,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 22,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        },
+        {
+          "row": 23,
+          "states": 4845,
+          "U_edges": 0,
+          "A": 4845,
+          "B": 35853,
+          "target": 20349,
+          "weights": null
+        }
+      ],
+      "monitor": {
+        "updates": 1351360,
+        "periodic": 329,
+        "boundaries": 7093,
+        "cpu": 0.06927026300000039
+      },
+      "preprocess_cpu": 0.00036963400000000757,
+      "recurrence_cpu": 1.544499099,
+      "worker_peak_rss_bytes": 19935232,
+      "kernel_levels_generated": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "queries": {
+    "0.001": {
+      "forward": {
+        "label": "moment_chord",
+        "epsilon": 0.349092737006711,
+        "orders": [
+          12,
+          16
+        ],
+        "evaluation_order": 16,
+        "bracket": [
+          12,
+          16
+        ],
+        "endpoint_weights": {
+          "12": 0.0,
+          "16": 1.0
+        },
+        "active_orders": [
+          16
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 0.3004843416717854,
+        "orders": []
+      },
+      "epsilon": 0.349092737006711,
+      "baseline_epsilon": 1.4387612586900225
+    },
+    "1e-05": {
+      "forward": {
+        "label": "moment_chord",
+        "epsilon": 0.6561040827392506,
+        "orders": [
+          12,
+          16
+        ],
+        "evaluation_order": 16,
+        "bracket": [
+          12,
+          16
+        ],
+        "endpoint_weights": {
+          "12": 0.0,
+          "16": 1.0
+        },
+        "active_orders": [
+          16
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 0.45443508269548866,
+        "orders": []
+      },
+      "epsilon": 0.6561040827392506,
+      "baseline_epsilon": 4.179770067304722
+    },
+    "1e-07": {
+      "forward": {
+        "label": "moment_chord",
+        "epsilon": 0.9631154284717897,
+        "orders": [
+          12,
+          16
+        ],
+        "evaluation_order": 16,
+        "bracket": [
+          12,
+          16
+        ],
+        "endpoint_weights": {
+          "12": 0.0,
+          "16": 1.0
+        },
+        "active_orders": [
+          16
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 0.569189897380311,
+        "orders": []
+      },
+      "epsilon": 0.9631154284717897,
+      "baseline_epsilon": 5.714826795967419
+    }
+  },
+  "base": {
+    "0.001": {
+      "forward": {
+        "label": "F2_CS",
+        "epsilon": 1.4387612586900225,
+        "orders": [
+          2
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 0.3004843416717854,
+        "orders": []
+      },
+      "epsilon": 1.4387612586900225,
+      "lower_missing": 0.22392306977653983
+    },
+    "1e-05": {
+      "forward": {
+        "label": "path",
+        "epsilon": 4.179770067304722,
+        "orders": [
+          4
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 0.45443508269548866,
+        "orders": []
+      },
+      "epsilon": 4.179770067304722,
+      "lower_missing": 0.5309344155090794
+    },
+    "1e-07": {
+      "forward": {
+        "label": "path",
+        "epsilon": 5.714826795967419,
+        "orders": [
+          4
+        ]
+      },
+      "reverse": {
+        "label": "Jensen_HS",
+        "epsilon": 0.569189897380311,
+        "orders": []
+      },
+      "epsilon": 5.714826795967419,
+      "lower_missing": 0.8379457612416185
+    }
+  },
+  "common": {
+    "v": 0.7113203102882056,
+    "m_norm2": 0.046868988120916014,
+    "log_w0": -0.75592113447068,
+    "paths": {
+      "2": 0.20099342877675427,
+      "4": 1.0919084384730564,
+      "8": 22.65498294781175,
+      "12": 41.97695298265736,
+      "16": 59.565541272485845
+    },
+    "single_chain_steps": 24,
+    "path_steps": 120,
+    "root_iterations": 195
+  },
+  "kernel_levels_built": 17,
+  "cheap_cpu": 0.0,
+  "high_cpu": 2.190346066,
+  "conversion_cpu": 0.0,
+  "process_cpu_before_serialization": 2.194503453,
+  "status": "PASS"
+}

@@ -1,0 +1,44 @@
+{
+  "W0": {
+    "gains": [
+      0.010856949414840833,
+      0.009396589206925432,
+      0.006679366304181755
+    ],
+    "median": 0.009396589206925432,
+    "quality": [
+      false,
+      false,
+      false
+    ],
+    "preregistered_positive": false
+  },
+  "W3": {
+    "gains": [
+      0.5746738757294885,
+      0.571040424313306,
+      0.5696518129523616
+    ],
+    "median": 0.571040424313306,
+    "quality": [
+      true,
+      true,
+      true
+    ],
+    "preregistered_positive": true
+  },
+  "W4": {
+    "gains": [
+      0.9320492920273589,
+      0.9333585359702533,
+      0.934336248998917
+    ],
+    "median": 0.9333585359702533,
+    "quality": [
+      false,
+      false,
+      false
+    ],
+    "preregistered_positive": false
+  }
+}

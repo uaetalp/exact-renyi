@@ -1,0 +1,481 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "spec": {
+        "id": "O_B4",
+        "T": 4,
+        "b": 4,
+        "k": 2,
+        "a": 2,
+        "p": "1/8",
+        "sigma2": "4",
+        "C": "geometric"
+      },
+      "references": {
+        "80": [
+          "0.066544528820183294898654935944231007086581351283813221574129454623292289714309343",
+          81
+        ],
+        "120": [
+          "0.0665445288201832948986549359442310070865813512838132215741294546232922897143093324901900931611680125946546236225150294634",
+          81
+        ]
+      },
+      "results": {
+        "U": {
+          "status": "PASS",
+          "numeric": "ordinary_float_not_certificate",
+          "value": 0.06654452882018327,
+          "rows": [
+            {
+              "row": 1,
+              "states": 6,
+              "counts": {
+                "U": 6,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "0ce48fc3d71466dcb8242efeb957ec35933b62ca0eb72971ff11189cfc421b9a"
+            },
+            {
+              "row": 2,
+              "states": 15,
+              "counts": {
+                "U": 15,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "2e4da4732420cadb68cf7faef6a9104c59c618d87b0681be4c5f70ecd1248b6b"
+            },
+            {
+              "row": 3,
+              "states": 28,
+              "counts": {
+                "U": 28,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "da0f18abb4cc14574e39ac696912c84a36401d4a22b87460bebc544db8b9c270"
+            },
+            {
+              "row": 4,
+              "states": 28,
+              "counts": {
+                "U": 45,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "e75f483434035cb0f97f7b9f9207cb5e7a45d6e9a441c6d0c1fd89458fe4a817"
+            }
+          ],
+          "peak_states": 28,
+          "preprocess_cpu": 0.0,
+          "recurrence_cpu": 0.004008960000000006,
+          "monitor": {
+            "n": 106,
+            "periodic": 0,
+            "boundaries": 4,
+            "cpu": 0.0,
+            "limit": 25000000
+          },
+          "exp_cache_entries": 0,
+          "kernel_sizes": [
+            1,
+            3,
+            6
+          ]
+        },
+        "E": {
+          "status": "PASS",
+          "numeric": "ordinary_float_not_certificate",
+          "value": 0.06654452882018311,
+          "rows": [
+            {
+              "row": 1,
+              "states": 6,
+              "counts": {
+                "U": 0,
+                "A": 1,
+                "B": 5,
+                "target": 6
+              },
+              "sha256": "0ce48fc3d71466dcb8242efeb957ec35933b62ca0eb72971ff11189cfc421b9a"
+            },
+            {
+              "row": 2,
+              "states": 15,
+              "counts": {
+                "U": 0,
+                "A": 6,
+                "B": 14,
+                "target": 15
+              },
+              "sha256": "2e4da4732420cadb68cf7faef6a9104c59c618d87b0681be4c5f70ecd1248b6b"
+            },
+            {
+              "row": 3,
+              "states": 28,
+              "counts": {
+                "U": 0,
+                "A": 15,
+                "B": 27,
+                "target": 28
+              },
+              "sha256": "da0f18abb4cc14574e39ac696912c84a36401d4a22b87460bebc544db8b9c270"
+            },
+            {
+              "row": 4,
+              "states": 28,
+              "counts": {
+                "U": 0,
+                "A": 28,
+                "B": 44,
+                "target": 36
+              },
+              "sha256": "d0b55e1b8ade5bc61aed9d935855b9c7735fa520067e8a5da252bc0003cc9857"
+            }
+          ],
+          "peak_states": 28,
+          "preprocess_cpu": 0.0,
+          "recurrence_cpu": 0.0,
+          "monitor": {
+            "n": 237,
+            "periodic": 0,
+            "boundaries": 4,
+            "cpu": 0.0,
+            "limit": 25000000
+          },
+          "exp_cache_entries": 0,
+          "kernel_sizes": [
+            1,
+            3,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "spec": {
+        "id": "O_K3",
+        "T": 4,
+        "b": 3,
+        "k": 3,
+        "a": 2,
+        "p": "1/8",
+        "sigma2": "4",
+        "C": "geometric"
+      },
+      "references": {
+        "80": [
+          "0.13275586320143398844773418112112094044606045104681607310165360872385697394406504",
+          484
+        ],
+        "120": [
+          "0.132755863201433988447734181121120940446060451046816073101653608723856973944065360598510875928406011857253025966381573513",
+          484
+        ]
+      },
+      "results": {
+        "U": {
+          "status": "PASS",
+          "numeric": "ordinary_float_not_certificate",
+          "value": 0.13275586320143395,
+          "rows": [
+            {
+              "row": 1,
+              "states": 10,
+              "counts": {
+                "U": 10,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "d731d0a75f5c324d863f5cf8f4d45106feeabb534995489690b05567b3fa8b18"
+            },
+            {
+              "row": 2,
+              "states": 28,
+              "counts": {
+                "U": 28,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "33a795b4287abf57ace493a66a613a6a9d72a8eb2896dc788ab5d08948b217a7"
+            },
+            {
+              "row": 3,
+              "states": 28,
+              "counts": {
+                "U": 55,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "96266b505bd10d61c49ef5379e379c584f22e004c63aa41f261dcdb28849f217"
+            },
+            {
+              "row": 4,
+              "states": 28,
+              "counts": {
+                "U": 55,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "02b9db829de7751edab929dfa4f7bedb5b09e18baca53fa64bbdc41fead2b217"
+            }
+          ],
+          "peak_states": 28,
+          "preprocess_cpu": 0.0,
+          "recurrence_cpu": 0.0,
+          "monitor": {
+            "n": 168,
+            "periodic": 0,
+            "boundaries": 4,
+            "cpu": 0.003999291000000002,
+            "limit": 25000000
+          },
+          "exp_cache_entries": 0,
+          "kernel_sizes": [
+            1,
+            4,
+            10
+          ]
+        },
+        "E": {
+          "status": "PASS",
+          "numeric": "ordinary_float_not_certificate",
+          "value": 0.13275586320143395,
+          "rows": [
+            {
+              "row": 1,
+              "states": 10,
+              "counts": {
+                "U": 0,
+                "A": 1,
+                "B": 7,
+                "target": 10
+              },
+              "sha256": "ae25cb1a98d6f9fd16a7d4f8fdb94d3d6a604fb719810ed446bfcbe1a77a13c9"
+            },
+            {
+              "row": 2,
+              "states": 28,
+              "counts": {
+                "U": 0,
+                "A": 10,
+                "B": 25,
+                "target": 28
+              },
+              "sha256": "4dd494fed80b52105ea1c7b267f5b9b2c3492f73ca72dd703f26ca358f854574"
+            },
+            {
+              "row": 3,
+              "states": 28,
+              "counts": {
+                "U": 0,
+                "A": 28,
+                "B": 51,
+                "target": 36
+              },
+              "sha256": "3cb452b1c5720d473d36a45b703231ea215c67fe6b40b5d07cbaf58c5b731d24"
+            },
+            {
+              "row": 4,
+              "states": 28,
+              "counts": {
+                "U": 0,
+                "A": 28,
+                "B": 51,
+                "target": 36
+              },
+              "sha256": "77594752f34cc75bbe1b60ebdbfb55b54fb4a222bc6ab614a73537cce391b2a2"
+            }
+          ],
+          "peak_states": 28,
+          "preprocess_cpu": 0.0,
+          "recurrence_cpu": 0.0,
+          "monitor": {
+            "n": 331,
+            "periodic": 0,
+            "boundaries": 4,
+            "cpu": 0.0,
+            "limit": 25000000
+          },
+          "exp_cache_entries": 0,
+          "kernel_sizes": [
+            1,
+            4,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "spec": {
+        "id": "O_VARY",
+        "T": 4,
+        "b": 3,
+        "k": 2,
+        "a": 3,
+        "p": "1/8",
+        "sigma2": "4",
+        "C": "alternating_rows"
+      },
+      "references": {
+        "80": [
+          "0.16645482064039925643837819008717508433407954917118563667282585577068070094238972",
+          2197
+        ],
+        "120": [
+          "0.166454820640399256438378190087175084334079549171185636672825855770680700942389795877794352740794633755268043780650763521",
+          2197
+        ]
+      },
+      "results": {
+        "U": {
+          "status": "PASS",
+          "numeric": "ordinary_float_not_certificate",
+          "value": 0.16645482064039907,
+          "rows": [
+            {
+              "row": 1,
+              "states": 10,
+              "counts": {
+                "U": 10,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "52c140f36e56c443f4f8519cefbae0c795c460274c3057a515cff9ae5cce67c1"
+            },
+            {
+              "row": 2,
+              "states": 35,
+              "counts": {
+                "U": 35,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "8457d21c9911d13fc860622cdb678a78e3ea68d82cea338e02f155b0f7e72d93"
+            },
+            {
+              "row": 3,
+              "states": 35,
+              "counts": {
+                "U": 84,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "9123e15167c5f74ba0184a3fc0667e1eb8d12e27606b8561bc84eff074ae0d93"
+            },
+            {
+              "row": 4,
+              "states": 35,
+              "counts": {
+                "U": 84,
+                "A": 0,
+                "B": 0,
+                "target": 0
+              },
+              "sha256": "06720bb21dc2bb87807fa1e8e81c3b615d266221d78847aea2f13e32f2b9381c"
+            }
+          ],
+          "peak_states": 35,
+          "preprocess_cpu": 0.0,
+          "recurrence_cpu": 0.004001706000000049,
+          "monitor": {
+            "n": 243,
+            "periodic": 0,
+            "boundaries": 4,
+            "cpu": 0.0,
+            "limit": 25000000
+          },
+          "exp_cache_entries": 0,
+          "kernel_sizes": [
+            1,
+            3,
+            6,
+            10
+          ]
+        },
+        "E": {
+          "status": "PASS",
+          "numeric": "ordinary_float_not_certificate",
+          "value": 0.16645482064039913,
+          "rows": [
+            {
+              "row": 1,
+              "states": 10,
+              "counts": {
+                "U": 0,
+                "A": 1,
+                "B": 7,
+                "target": 10
+              },
+              "sha256": "52c140f36e56c443f4f8519cefbae0c795c460274c3057a515cff9ae5cce67c1"
+            },
+            {
+              "row": 2,
+              "states": 35,
+              "counts": {
+                "U": 0,
+                "A": 10,
+                "B": 30,
+                "target": 35
+              },
+              "sha256": "c64f4fcec8736b420589ec0a623ab32a797f3e287fc8115f9d5520ac64be6049"
+            },
+            {
+              "row": 3,
+              "states": 35,
+              "counts": {
+                "U": 0,
+                "A": 35,
+                "B": 77,
+                "target": 56
+              },
+              "sha256": "7a8d08f48f7efd785f9a52afc80e688e85480f9d9f4b4a6fef453f2859498e02"
+            },
+            {
+              "row": 4,
+              "states": 35,
+              "counts": {
+                "U": 0,
+                "A": 35,
+                "B": 77,
+                "target": 56
+              },
+              "sha256": "35a4bea43b3103ac8e778cd0c8819aaac0ddb077827780948851b90d74f4f6a6"
+            }
+          ],
+          "peak_states": 35,
+          "preprocess_cpu": 0.0,
+          "recurrence_cpu": 0.0,
+          "monitor": {
+            "n": 459,
+            "periodic": 0,
+            "boundaries": 4,
+            "cpu": 0.0,
+            "limit": 25000000
+          },
+          "exp_cache_entries": 0,
+          "kernel_sizes": [
+            1,
+            3,
+            6,
+            10
+          ]
+        }
+      }
+    }
+  ]
+}

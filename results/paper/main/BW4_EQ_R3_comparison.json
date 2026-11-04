@@ -1,0 +1,86 @@
+[
+  {
+    "row": 1,
+    "states": 153,
+    "max_log_weight_difference": 1.4210854715202004e-14,
+    "U_sha": "1a552d2e23722149ad12df13708fa3d8dcfb95076092eb4166a1b5d4f5ff2e1c",
+    "E_sha": "8e0c4b76f8df365c15ff5c1ca3a166abdc5af6ee60c92f24204cf9913d81e97a"
+  },
+  {
+    "row": 2,
+    "states": 4845,
+    "max_log_weight_difference": 4.263256414560601e-14,
+    "U_sha": "dac2a93e12f85fd82312b172f6bdd7e3da75075abd9c7c3ff8b6baeac0c5d746",
+    "E_sha": "c412f2c470c53f947303507909048cba18411d2820493e6325f6c4118c7419c3"
+  },
+  {
+    "row": 3,
+    "states": 74613,
+    "max_log_weight_difference": 4.263256414560601e-14,
+    "U_sha": "dfb99761575f91fcf5fb3a291f6a5d11e9032feb49337ce1bf2257391277a08c",
+    "E_sha": "d58a5e05688540d9fac6c9ac782c74388ff21995820445b792377e0b94c1d0f0"
+  },
+  {
+    "row": 4,
+    "states": 74613,
+    "max_log_weight_difference": 5.684341886080802e-14,
+    "U_sha": "1ee0ad9e2a3fc8949c4d154c25a6261211019d854c87ae74e4af791cbf42f22f",
+    "E_sha": "db05dc92327874015841d9e6410f748e0e5d9c4c08470bab41ff81c24fda579e"
+  },
+  {
+    "row": 5,
+    "states": 74613,
+    "max_log_weight_difference": 6.394884621840902e-14,
+    "U_sha": "08824680ebbd9f89c42382b0727b305dd10f3a6eb3d24f8c83caabceebec0e41",
+    "E_sha": "a50039a6308397c6d7e76d932ddb7c6119300bc63c3f4dee168c2abe706f3655"
+  },
+  {
+    "row": 6,
+    "states": 74613,
+    "max_log_weight_difference": 4.973799150320701e-14,
+    "U_sha": "cbc352ace7a3d9c08a06abaaf3f39cf9833cba6dd875ca0e186a29311ac3578b",
+    "E_sha": "20fd6ed2579e4bb0cf107442b0a429ed559e7c33687260739141d92b176e1ff3"
+  },
+  {
+    "row": 7,
+    "states": 74613,
+    "max_log_weight_difference": 4.973799150320701e-14,
+    "U_sha": "7af2181abe57143c9e1e9c1a99a2ac04bd725dcf06ddc13e674c82db0e1e81f8",
+    "E_sha": "edb97a6bf48ea3351d049a6a753e1576776b53b45920f56a2a91a9cd8df17fbb"
+  },
+  {
+    "row": 8,
+    "states": 74613,
+    "max_log_weight_difference": 5.684341886080802e-14,
+    "U_sha": "b07bcdcd6acc380a283c0eb209293783beb723b583330f6a2a8ff3e88c1c76c1",
+    "E_sha": "f6a122f0b7de4919b57ac6491ac887eb6482f70e84e8d4d9b8400828b4e6cf45"
+  },
+  {
+    "row": 9,
+    "states": 74613,
+    "max_log_weight_difference": 4.973799150320701e-14,
+    "U_sha": "dde1e22a78d3d3425454988f9e933b383a89ca1dba6244b6227f9b9d0f764e85",
+    "E_sha": "4a845a67827306be40b4c022c9b54ce3c18ecc69415ccf79649efc49a5a44ac9"
+  },
+  {
+    "row": 10,
+    "states": 74613,
+    "max_log_weight_difference": 5.684341886080802e-14,
+    "U_sha": "82ddcfe4636b6c3041353852147756c1a64576afb53ec23cabbdeaa89e3d63f6",
+    "E_sha": "8c0e9dc938390152764f31c36145fedee655c0cdbc5546aa23b51f78c7a43110"
+  },
+  {
+    "row": 11,
+    "states": 74613,
+    "max_log_weight_difference": 4.973799150320701e-14,
+    "U_sha": "2e7219ab57791a71e53e91349e2b774453066198273bbaa7f73a3b99f7d0c369",
+    "E_sha": "bfbffa3db9ad46a7b85da395dc977b3e547a8015e1478565e604a33c79e757bd"
+  },
+  {
+    "row": 12,
+    "states": 74613,
+    "max_log_weight_difference": 4.973799150320701e-14,
+    "U_sha": "70127c8c0041bbecc57b47c945d44a1d10a12f96ea2bb5bdd6e479869a8f2385",
+    "E_sha": "a6ddb1d3d8655acfcbfca9fad96944bc4ccd3a753277f8fa46ac7f5adfae9ad3"
+  }
+]
